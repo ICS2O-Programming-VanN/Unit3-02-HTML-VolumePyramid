@@ -35,3 +35,8 @@ h2 {
   background-color: #ff9494;
   padding: 30px;
 }
+
+main {
+	text-align: center;
+	font-weight: bold;
+}
